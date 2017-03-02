@@ -1,2 +1,2 @@
 # Brute-Force
-All code in Brute Force
+All code for Brute Force Attack
